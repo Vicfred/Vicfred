@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **Vicfred/Vicfred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Vicfred's github stats](https://github-readme-stats.vercel.app/api?username=Vicfred&count_private=true&show_icons=true&theme=gruvbox)](https://lagmental.net/pages/notme.html)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicfred&theme=gruvbox&layout=compact)](https://lagmental.net/pages/notme.html)
