@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 -->
 
 [![Vicfred's github stats](https://github-readme-stats.vercel.app/api?username=Vicfred&count_private=true&show_icons=true&theme=gruvbox)](https://lagmental.net/pages/notme.html)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vicfred&theme=gruvbox&layout=compact)](https://lagmental.net/pages/notme.html)
