@@ -1,1 +1,1 @@
-[![Programming Languages](https://raw.githubusercontent.com/Vicfred/githubstatsreadmegenerator/master/generated/languages.svg)](https://lagmental.net/pages/notme.html)
+[![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vicfred&langs_count=10&layout=pie&theme=gruvbox)](https://lagmental.net/pages/notme.html)
