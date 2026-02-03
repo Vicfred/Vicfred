@@ -22,7 +22,7 @@ jobs:
           exclude_languages: "Java"
           dark_mode: "true"
 
-      - name: Debug: show stats outputs
+      - name: Debug show stats outputs
         run: |
           echo "=== stats tree ==="
           find stats -maxdepth 2 -type f -ls || true
