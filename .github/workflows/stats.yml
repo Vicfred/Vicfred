@@ -19,7 +19,6 @@ jobs:
           github_token: ${{ secrets.STATS_TOKEN }}
           visualization_types: "leaderboard bar pie"
           output_path: "stats"
-          exclude_languages: "Java"
           dark_mode: "true"
 
       - name: Debug show stats outputs
