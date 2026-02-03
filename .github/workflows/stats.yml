@@ -13,10 +13,19 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: StefVuck/Github-Language-Stats@v1.1.0
         with:
           github_token: ${{ secrets.STATS_TOKEN }}
           visualization_types: "leaderboard bar pie"
           output_path: "stats"
-          exclude_languages: "Java, HTML, CSS"
+          exclude_languages: "Java"
           dark_mode: "true"
+
+      - name: Debug: show stats outputs
+        run: |
+          echo "=== stats tree ==="
+          find stats -maxdepth 2 -type f -ls || true
+          echo "=== git status ==="
+          git status --porcelain
+
