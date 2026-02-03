@@ -29,3 +29,10 @@ jobs:
           echo "=== git status ==="
           git status --porcelain
 
+      - name: Commit updated images
+        run: |
+          git status --porcelain
+          git add -A stats
+          git status --porcelain
+          git commit -m "Update language stats" || exit 0
+          git push
